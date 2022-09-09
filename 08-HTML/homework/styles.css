@@ -1,0 +1,14 @@
+h1{color:blue;} 
+img{width: 400px;}
+#thirdDiv{
+    height:400 px;
+    width:300 px;
+    background-color:rgb(65, 63, 141)
+    padding:azure;
+    border: 5px solid blue;
+}
+#spanId{
+    font-size: 18px;
+    margin :50px;
+
+}
