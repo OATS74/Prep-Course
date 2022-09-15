@@ -5,34 +5,62 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Ejercicio 1: Centrar el texto en un span */
 
-/* Arrancaremos este ejercicio por vos: */
+/* Arrancaremos este ejercicio por vos: centra texto*/
 #ejercicioUno {
-
+display:block;
+text-align: center;
 }
 
 
 /* Ejercicio 2: Posicionar el header */
 
-/* Acá va tu código */
+/* Acá va tu código     oculta display */
+#ejercicioDos {
+display: none;
 
+}
 
 
 /* Ejercicio 3: */
 
-/* Acá va tu código */
-
+/* Acá va tu código    meta mover  foto */
+#ejercicioTres {
+    position:relative;
+    left: 100 px;
+    top:  200 px;
+    
+}
 
 
 /* Ejercicio 4: */
 
 /* Acá va tu código */
+#ejercicioCuatro{
+
+    position: fixed;
+    top: opx;
+    left:0px
+}
 
 
 
 /* Ejercicio 5: */
 
 /* Acá va tu código */
+#ejercicioCinco{
+    position: flex;
+    justify-content: space-around;
+    align-items: center;}
 
 
 
 /* Ejercicio 6. */
+#ejercicioCinco{
+    flex-flow: row-reverse;
+ }
+#ejercicioSiete{
+    display: flex;
+    flex-flow:column-reverse;
+align-self: flex-start;
+
+}
