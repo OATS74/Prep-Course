@@ -193,7 +193,6 @@ function agregarSimboloExclamacion(str) {
   // Ejemplo: "hello world" pasaría a ser "hello world!"
   // Tu código:
 }return str + "!";
-
 function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"

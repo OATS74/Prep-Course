@@ -1,0 +1,19 @@
+Variables.
+Variable es un adjetivo que significa que algo o alguien varía o puede variar.(ejemplo: la varible sexo puede intepretarse como variable actualmente en el genero humano. )
+
+Strings
+
+Las cadenas de caracteres no son más que un arreglo de caracteres. De esta forma podemos conseguir que el usuario introduzca palabras, y no solo un carácter. Vamos a ver un ejemplo en el que se pide al usuario que introduzca su nombre y luego se muestra por pantalla. También se mostrará la longitud de esa cadena de caracteres (string).
+y mostrar por ejemploel 3er caracter de esa cadena.
+
+Funciones (argumentos, return)
+
+Desde un punto de vista práctico, podemos decir que una función es una parte de un programa (subrutina) con un nombre, que puede ser invocada en cualquier momento y cuantas veces quiera.ejemplo (ejemplo: los seres humanos tenemos funciones primarais : dormir, orinas, evacuar comer,etc. pero otras funciones se pueden ejecutar : cocinar bañarse, reparar algo sencillo )
+
+Declaraciones if
+
+lo veo como un procedimiento para solucionar cosas cotidianas cocinar o fritar un huevo. se necesitan ciertos condiciones y materiales que en un orden se ejectan para  solucionar un problemar . 
+
+Valores booleanos (true, false)
+
+es un lenguaje primario para maquinas , El tipo de dato lógico o booleano es en computación aquel que puede representar valores de lógica binaria, esto es 2 valores, que normalmente representan falso o verdadero.0 u 1, apagado, encendido. ​ Se utiliza normalmente en la programación, estadística, electrónica, matemáticas (Álgebra booleana), etc.

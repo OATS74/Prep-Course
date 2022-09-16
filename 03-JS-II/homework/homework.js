@@ -24,7 +24,7 @@ function conection(status) {
   //De lo contrario, presumimos que el usuario está "Offline"
   //Devolver el estado de conexión de usuario en cada uno de los casos.
   if (status===1) {
-    return "online"}
+    return "Online"}
   else if (status===2){
     return  "Away"}
   else {return"Offline"
@@ -80,11 +80,9 @@ function esDiezOCinco(numero) {
   //17min  Devuelve "true" si "numero" es 10 o 5
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (numero===10  ||numero===5);
-    {
+  if (numero===10  ||numero===5); {
     return true
-  } 
-     return false
+  } { return false}
     
   } 
 
@@ -164,12 +162,9 @@ function esPrimo(numero) {
   // Nota: Los números 0 y 1 NO son considerados números primos
   for (let i = 2; i < numero ; i++ ); {
     
-    if (numero %  i === 0)return false ;
-      
+    if (numero %  i === 0)return false ;  
   }
-  return true
- 
-    
+  return true 
   }
 
 
@@ -181,7 +176,7 @@ if (valor) {
   return "Soy verdadero" ;
   
 }else {
-  return "“Soy falso”"}
+  return "Soy falso"}
 }
 //otro metodo 
 //return valor  ? “Soy verdadero” :  “Soy falso”
@@ -240,3 +235,4 @@ module.exports = {
   tieneTresDigitos,
   doWhile
 }
+
