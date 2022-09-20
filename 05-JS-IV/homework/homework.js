@@ -60,7 +60,7 @@ var nuevoObjeto={
   password
 
 }
-return nuevoObjeto
+return nuevoObjeto;
 }
 
 function tieneEmail (usuario) {
@@ -68,10 +68,12 @@ function tieneEmail (usuario) {
   // De lo contratio, devuelve "false"
   // Tu código:
   var email
-  if (usuario)[email];{ 
-  return true
-}   
+  if(usuario.email){ 
+    return true;
+  }else
+{   
 return false
+}
 }
 
 
